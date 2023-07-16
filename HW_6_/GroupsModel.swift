@@ -1,4 +1,4 @@
-//
+// 
 //  GroupsModel.swift
 //  HW_6_
 //

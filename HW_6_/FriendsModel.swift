@@ -1,4 +1,4 @@
-//
+// 
 //  FriendsModel.swift
 //  HW_6_
 //
